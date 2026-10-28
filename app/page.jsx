@@ -182,7 +182,7 @@ export default function Home() {
         <div className="header-container">
           <a href="#" className="header-logo" id="header-logo">
             <span className="header-logo-icon">✓</span>
-            <span>CLAIM READY</span>
+            <span>Thaqif Nabil</span>
           </a>
 
           <nav className="header-nav" id="header-nav">
@@ -210,7 +210,7 @@ export default function Home() {
       <main className="page-container">
         {/* Hero Section */}
         <section className="hero-section" id="hero">
-          <h1 className="hero-title">CLAIM READY</h1>
+          <h1 className="hero-title">Thaqif Nabil</h1>
           <p className="hero-subtitle">
             A free checklist for anyone about to file a warranty claim.
           </p>
@@ -361,7 +361,7 @@ export default function Home() {
 
       {/* Site Footer */}
       <footer className="site-footer">
-        <div className="footer-brand">CLAIM READY</div>
+        <div className="footer-brand">Thaqif Nabil</div>
         <p className="footer-copy">
           A free checklist for anyone about to file a warranty claim.
         </p>

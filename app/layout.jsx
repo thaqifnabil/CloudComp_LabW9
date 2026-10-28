@@ -6,9 +6,9 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: 'CLAIM READY - Free Warranty Claim Checklist',
+  title: 'Thaqif Nabil - Free Warranty Claim Checklist',
   description: 'A free checklist for anyone about to file a warranty claim. Decided on facts, in writing.',
-  keywords: ['warranty claim', 'consumer rights', 'claim ready', 'warranty checklist'],
+  keywords: ['warranty claim', 'consumer rights', 'thaqif nabil', 'warranty checklist'],
 };
 
 export default function RootLayout({ children }) {
